@@ -1,0 +1,9 @@
+*{
+    font-family: Arial, "Times of Roman";
+}
+
+.heading{
+    text-align: center;
+    font-size: 36px;
+    background-color: blue;
+}

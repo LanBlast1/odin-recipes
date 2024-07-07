@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica,"Times New Roman";
+    background-color: purple;
+}
+
+
+#heading{
+    text-align: center;
+    font-size: 32px;
+    background-color: aqua;
+}
+
+.desc{
+    font-size: 16px;
+}
+
+img {
+    height:auto;
+    width: 150px;
+}
+
+h2{
+    background-color: rgb(155, 141, 35);
+}
+
+.ing{
+    font-size: 14px;
+}
