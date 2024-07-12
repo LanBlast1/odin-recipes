@@ -4,6 +4,21 @@
 
 .heading{
     text-align: center;
-    font-size: 36px;
-    background-color: blue;
+    font-size: 36px;   
+}
+
+.list{
+    display: table;
+    margin: 0 auto;
+    background-color: rgb(76, 49, 126);
+    padding: 25px;
+}
+
+li{
+    color: rgb(27, 162, 199);
+    background-color: rgb(27, 162, 199);
+}
+
+a{
+    color:aqua
 }
